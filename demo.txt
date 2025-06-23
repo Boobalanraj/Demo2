@@ -1,1 +1,2 @@
-git conflict demo1
+git conflict demo2
+
